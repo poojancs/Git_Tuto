@@ -2,10 +2,4 @@ one
 two
 three
 four
-<<<<<<< HEAD
-seven
-||||||| merged common ancestors
 five
-=======
-six
->>>>>>> b1
